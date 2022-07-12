@@ -28,7 +28,11 @@ async def on_message(message):
 
 @client.command()
 async def peepee(ctx):
+<<<<<<< HEAD
     await ctx.send("poopoo from the cloud")
+=======
+    await ctx.send("poopoo")
+>>>>>>> b275a04f536c88eeb839251f2d2f7690ec9ed838
 
 
 @client.command()
